@@ -3,6 +3,9 @@
 int()
 str()
 bool()
+print()
+range()
+sum()
 
 # Module Functions -> There are various modules which can have various in-built functions which can be used by user just by import that module
 
